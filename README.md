@@ -17,7 +17,7 @@ I've learnt a lot of skills under HTML and the Odin Project's guidance in just t
 <li> How to change the font size </li>
 <li> How to add pictures </li>
 <li> How to change the image size </li>
-<li> How to add descriptive text for the vision impaired </li>
+<li> How to add descriptive text for the vision impaired </li> </ul>
 
 <h3> <p> I think that just about sums it up.</P> <p> I'm really enjoying seeing my work appear on the screen and I am confident I have the above memorised. </h3> </p>
 
