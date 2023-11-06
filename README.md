@@ -3,7 +3,9 @@
 <!Doctype html> 
 <html lang="eng">
 <head> 
+<meta charset="UTF-8">
 <h2> What I have learnt in 'recipes'</h2>
+<title>What I have learnt</title>
 </head>
 <body> 
 I've learnt a lot of skills under HTML and the Odin Project's guidance in just this section alone.
